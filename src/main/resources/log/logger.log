@@ -1,0 +1,693 @@
+2021-02-16 09:59:17 INFO  HibernateMetadataProviderTest:47 - getAllColumn
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:85 - [Ljava.lang.Object;@2849434b
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@2849434b
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:85 - [Ljava.lang.Object;@60bbacfc
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@60bbacfc
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:85 - [Ljava.lang.Object;@65b97f47
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@65b97f47
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:85 - [Ljava.lang.Object;@255eaa6b
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@255eaa6b
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:85 - [Ljava.lang.Object;@476fe690
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@476fe690
+2021-02-16 09:59:19 INFO  HibernateMetadataProviderTest:35 - getAllTables
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:64 - [Test_table2, Test_table]
+2021-02-16 09:59:19 INFO  HibernateMetadataProviderTest:23 - getAllSchemas
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:45 - Get schemas size: 6
+2021-02-16 09:59:19 INFO  HibernateMetadataProviderTest:73 - getBdSize
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:135 - Get bd size: [7921 kB]
+2021-02-16 09:59:19 INFO  HibernateMetadataProviderTest:99 - getTableInformation
+2021-02-16 09:59:19 INFO  HibernateMetadataProvider:173 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-16 10:40:51 INFO  HibernateMetadataProviderTest:47 - getAllColumn
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:85 - [Ljava.lang.Object;@2849434b
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@2849434b
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:85 - [Ljava.lang.Object;@60bbacfc
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@60bbacfc
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:85 - [Ljava.lang.Object;@65b97f47
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@65b97f47
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:85 - [Ljava.lang.Object;@255eaa6b
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@255eaa6b
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:85 - [Ljava.lang.Object;@476fe690
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@476fe690
+2021-02-16 10:40:53 INFO  HibernateMetadataProviderTest:35 - getAllTables
+2021-02-16 10:40:53 INFO  HibernateMetadataProvider:64 - [Test_table2, Test_table]
+2021-02-16 10:40:53 INFO  HibernateMetadataProviderTest:23 - getAllSchemas
+2021-02-16 10:40:54 INFO  HibernateMetadataProvider:45 - Get schemas size: 6
+2021-02-16 10:40:54 INFO  HibernateMetadataProviderTest:73 - getBdSize
+2021-02-16 10:40:54 INFO  HibernateMetadataProvider:135 - Get bd size: [7921 kB]
+2021-02-16 10:40:54 INFO  HibernateMetadataProviderTest:99 - getTableInformation
+2021-02-16 10:40:54 INFO  HibernateMetadataProvider:173 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 20:41:47 INFO  HibernateMetadataProviderTest:47 - getAllColumn
+2021-02-24 20:41:47 INFO  HibernateMetadataProviderTest:35 - getAllTables
+2021-02-24 20:41:47 INFO  HibernateMetadataProviderTest:23 - getAllSchemas
+2021-02-24 20:41:47 INFO  HibernateMetadataProviderTest:73 - getBdSize
+2021-02-24 20:41:47 INFO  HibernateMetadataProviderTest:99 - getTableInformation
+2021-02-24 20:42:35 INFO  HibernateMetadataProviderTest:47 - getAllColumn
+2021-02-24 20:42:35 INFO  HibernateMetadataProviderTest:35 - getAllTables
+2021-02-24 20:42:35 INFO  HibernateMetadataProviderTest:23 - getAllSchemas
+2021-02-24 20:42:35 INFO  HibernateMetadataProviderTest:73 - getBdSize
+2021-02-24 20:42:35 INFO  HibernateMetadataProviderTest:99 - getTableInformation
+2021-02-24 20:50:06 INFO  HibernateMetadataProviderTest:47 - getAllColumn
+2021-02-24 20:50:06 INFO  HibernateMetadataProviderTest:35 - getAllTables
+2021-02-24 20:50:06 INFO  HibernateMetadataProviderTest:23 - getAllSchemas
+2021-02-24 20:50:06 INFO  HibernateMetadataProviderTest:73 - getBdSize
+2021-02-24 20:50:06 INFO  HibernateMetadataProviderTest:99 - getTableInformation
+2021-02-24 20:51:11 INFO  HibernateMetadataProviderTest:47 - getAllColumn
+2021-02-24 20:51:11 INFO  HibernateMetadataProviderTest:35 - getAllTables
+2021-02-24 20:51:11 INFO  HibernateMetadataProviderTest:23 - getAllSchemas
+2021-02-24 20:51:11 INFO  HibernateMetadataProviderTest:73 - getBdSize
+2021-02-24 20:51:11 INFO  HibernateMetadataProviderTest:99 - getTableInformation
+2021-02-24 21:10:51 INFO  HibernateMetadataProviderTest:48 - getAllColumn
+2021-02-24 21:10:51 INFO  HibernateMetadataProviderTest:36 - getAllTables
+2021-02-24 21:10:51 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:10:51 INFO  HibernateMetadataProviderTest:74 - getBdSize
+2021-02-24 21:10:51 INFO  HibernateMetadataProviderTest:100 - getTableInformation
+2021-02-24 21:13:10 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:17:52 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:17:53 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:19:03 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@65b97f47
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@65b97f47
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@255eaa6b
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@255eaa6b
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@476fe690
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@476fe690
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7a0e7ecd
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7a0e7ecd
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@54e3658c
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@54e3658c
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@43e9089
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@43e9089
+2021-02-24 21:19:04 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:19:04 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:19:04 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:19:04 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:19:04 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:19:18 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:19:20 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:19:20 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:19:20 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:19:20 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:19:20 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:19:33 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:19:34 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:19:34 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:19:34 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:19:34 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:19:34 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:19:46 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:19:47 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:19:47 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:19:47 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:19:47 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:19:47 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:27:17 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:27:18 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:27:18 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:27:18 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:27:18 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:27:18 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:29:47 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:29:48 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:29:48 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:29:48 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:29:48 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:29:48 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:32:19 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4b97c4ad
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4b97c4ad
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:32:20 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:32:20 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:32:20 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:32:20 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:32:20 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:32:41 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7640a5b1
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@642f9a77
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@23f3da8b
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@5634d0f4
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@252a8aae
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@3d4e405e
+2021-02-24 21:32:42 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:32:42 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:32:42 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:32:42 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:32:42 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:46:06 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:46:07 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:46:07 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:46:07 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:46:07 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:46:07 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:46:23 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:46:24 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:46:24 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:46:24 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:46:24 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:46:24 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:48:49 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:48:50 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:48:50 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:48:50 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:48:50 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:48:50 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:49:05 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:49:06 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:49:06 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:49:06 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:49:06 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:49:06 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:52:55 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:52:56 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:52:56 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:52:56 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:52:56 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:52:56 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 21:53:12 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@38ed139b
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@a5272be
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4dba773d
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4c58255
+2021-02-24 21:53:14 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 21:53:14 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 21:53:14 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 21:53:14 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 21:53:14 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 22:02:47 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 22:02:47 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 22:02:47 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 22:02:47 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 22:02:47 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 22:12:51 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@38ed139b
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@38ed139b
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@a5272be
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@a5272be
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4dba773d
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4dba773d
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4c58255
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4c58255
+2021-02-24 22:12:52 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 22:12:52 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 22:12:52 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 22:12:52 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 22:12:52 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 22:13:10 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@38ed139b
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@38ed139b
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@a5272be
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@a5272be
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4dba773d
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4dba773d
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4c58255
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4c58255
+2021-02-24 22:13:11 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 22:13:11 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 22:13:11 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 22:13:11 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 22:13:11 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 22:55:13 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 22:55:14 ERROR HibernateUtil:44 - Hibernate.cfg.xml
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@eac3a26
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@eac3a26
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@10b1a751
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@10b1a751
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@53cf9c99
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@53cf9c99
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7b306b9f
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7b306b9f
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@142213d5
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@142213d5
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@934b52f
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@934b52f
+2021-02-24 22:55:15 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 22:55:15 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 22:55:15 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 22:55:15 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 22:55:15 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 22:56:15 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 22:56:16 ERROR HibernateUtil:44 - Hibernate.cfg.xml
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@eac3a26
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@eac3a26
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@10b1a751
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@10b1a751
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@53cf9c99
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@53cf9c99
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7b306b9f
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7b306b9f
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@142213d5
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@142213d5
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@934b52f
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@934b52f
+2021-02-24 22:56:17 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 22:56:17 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 22:56:17 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 22:56:17 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 22:56:17 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 22:57:46 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 22:57:47 ERROR HibernateUtil:44 - Hibernate.cfg.xml
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@eac3a26
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@eac3a26
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@10b1a751
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@10b1a751
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@53cf9c99
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@53cf9c99
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7b306b9f
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7b306b9f
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@142213d5
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@142213d5
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@934b52f
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@934b52f
+2021-02-24 22:57:48 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 22:57:48 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 22:57:48 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 22:57:48 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 22:57:48 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 22:58:11 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 22:58:11 ERROR HibernateUtil:44 - Hibernate.cfg.xml
+2021-02-24 22:58:12 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@eac3a26
+2021-02-24 22:58:12 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@eac3a26
+2021-02-24 22:58:12 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@10b1a751
+2021-02-24 22:58:12 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@10b1a751
+2021-02-24 22:58:12 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@53cf9c99
+2021-02-24 22:58:12 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@53cf9c99
+2021-02-24 22:58:12 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@7b306b9f
+2021-02-24 22:58:12 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@7b306b9f
+2021-02-24 22:58:12 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@142213d5
+2021-02-24 22:58:13 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@142213d5
+2021-02-24 22:58:13 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@934b52f
+2021-02-24 22:58:13 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@934b52f
+2021-02-24 22:58:13 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 22:58:13 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 22:58:13 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 22:58:13 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 22:58:13 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 22:58:13 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 22:58:13 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 22:58:13 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 23:06:53 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 23:06:53 ERROR HibernateUtil:44 - hibernate.cfg.xml
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@3204e238
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@3204e238
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:06:55 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 23:06:55 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 23:06:55 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 23:06:55 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 23:06:55 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 23:07:17 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 23:07:18 ERROR HibernateUtil:44 - hibernate.cfg.xml
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:86 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:87 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:07:20 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:65 - [Test_table2, Test_table, t]
+2021-02-24 23:07:20 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:46 - Get schemas size: 6
+2021-02-24 23:07:20 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:136 - Get bd size: [7929 kB]
+2021-02-24 23:07:20 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 23:07:20 INFO  HibernateMetadataProvider:174 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 23:10:38 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 23:10:39 ERROR HibernateUtil:44 - hibernate.cfg.xml
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:10:40 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:58 - [Test_table2, Test_table, t]
+2021-02-24 23:10:40 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:39 - Get schemas size: 6
+2021-02-24 23:10:40 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:129 - Get bd size: [7929 kB]
+2021-02-24 23:10:40 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 23:10:40 INFO  HibernateMetadataProvider:167 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 23:13:58 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 23:13:59 ERROR HibernateUtil:44 - hibernate.cfg.xml
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:14:00 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:58 - [Test_table2, Test_table, t]
+2021-02-24 23:14:00 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:39 - Get schemas size: 6
+2021-02-24 23:14:00 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:129 - Get bd size: [7929 kB]
+2021-02-24 23:14:00 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 23:14:00 INFO  HibernateMetadataProvider:167 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 23:14:38 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 23:14:39 ERROR HibernateUtil:44 - hibernate.cfg.xml
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:14:40 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:58 - [Test_table2, Test_table, t]
+2021-02-24 23:14:40 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:39 - Get schemas size: 6
+2021-02-24 23:14:40 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:129 - Get bd size: [7929 kB]
+2021-02-24 23:14:40 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 23:14:40 INFO  HibernateMetadataProvider:167 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 23:20:44 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 23:20:44 ERROR HibernateUtil:44 - hibernate.cfg.xml
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:20:45 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:20:45 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 23:20:46 INFO  HibernateMetadataProvider:58 - [Test_table2, Test_table, t]
+2021-02-24 23:20:46 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 23:20:46 INFO  HibernateMetadataProvider:39 - Get schemas size: 6
+2021-02-24 23:20:46 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 23:20:46 INFO  HibernateMetadataProvider:129 - Get bd size: [7929 kB]
+2021-02-24 23:20:46 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 23:20:46 INFO  HibernateMetadataProvider:167 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-24 23:21:07 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-24 23:21:08 ERROR HibernateUtil:44 - hibernate.cfg.xml
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@38ed139b
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@a5272be
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@58ba5b30
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4dba773d
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@1d9bd4da
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4c58255
+2021-02-24 23:21:09 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:58 - [Test_table2, Test_table, t]
+2021-02-24 23:21:09 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:39 - Get schemas size: 6
+2021-02-24 23:21:09 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:129 - Get bd size: [7929 kB]
+2021-02-24 23:21:09 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-24 23:21:09 INFO  HibernateMetadataProvider:167 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-25 00:14:23 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-25 00:14:23 ERROR HibernateUtil:45 - hibernate.cfg.xml
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@38ed139b
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@38ed139b
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@a5272be
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@a5272be
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@58ba5b30
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@58ba5b30
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4dba773d
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4dba773d
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@1d9bd4da
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@1d9bd4da
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4c58255
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4c58255
+2021-02-25 00:14:25 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:58 - [Test_table2, Test_table, t]
+2021-02-25 00:14:25 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:39 - Get schemas size: 6
+2021-02-25 00:14:25 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:129 - Get bd size: [7929 kB]
+2021-02-25 00:14:25 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-25 00:14:25 INFO  HibernateMetadataProvider:167 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
+2021-02-25 00:14:47 INFO  HibernateMetadataProviderTest:49 - getAllColumn
+2021-02-25 00:14:47 ERROR HibernateUtil:45 - hibernate.cfg.xml
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@38ed139b
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@38ed139b
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@a5272be
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@a5272be
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@58ba5b30
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@58ba5b30
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4dba773d
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4dba773d
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@1d9bd4da
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@1d9bd4da
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:79 - [Ljava.lang.Object;@4c58255
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:80 - [Ljava.lang.Object;@4c58255
+2021-02-25 00:14:49 INFO  HibernateMetadataProviderTest:37 - getAllTables
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:58 - [Test_table2, Test_table, t]
+2021-02-25 00:14:49 INFO  HibernateMetadataProviderTest:24 - getAllSchemas
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:39 - Get schemas size: 6
+2021-02-25 00:14:49 INFO  HibernateMetadataProviderTest:75 - getBdSize
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:129 - Get bd size: [7929 kB]
+2021-02-25 00:14:49 INFO  HibernateMetadataProviderTest:101 - getTableInformation
+2021-02-25 00:14:49 INFO  HibernateMetadataProvider:167 - Get table information: [[id, bigint], [name, "char"], [telephone, "char"]]
